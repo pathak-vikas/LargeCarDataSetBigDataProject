@@ -4,7 +4,9 @@ CSP554 : Big Data Technologies
 Project Members:
 
 Amogh Kori A20491465 (Voice of the team)
+
 Kajol Tanesh Shah A20496724
+
 Vikas Pathak A20460927
 
 Illinois Institute of Technology
